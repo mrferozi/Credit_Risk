@@ -1,7 +1,7 @@
 # Credit_Risk
-##Effect of Age, Gender, Martial Status, and Education on credit default. An exploratory data analysis by controlled machine learning.
+#Effect of Age, Gender, Martial Status, and Education on credit default. An exploratory data analysis by controlled machine learning.
 ##
-###Dissertation
+#Dissertation
 ##
 The Credit risk is a possible danger of rejection resulting from a borrower’s failure to refund a loan or meet agreed requirements. Normally, it announces the risk that a lender may not receive the owed principal (actual money) and interest (profit), which results in brake of cash flows and increased prices for setting up (Investopedia, 2017). 
 ##
