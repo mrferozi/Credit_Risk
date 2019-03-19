@@ -9,7 +9,7 @@ Master’s in data science
 ##
 C00221923@itcarlow.ie
 ##
-Read Me First
+Read Me First:
 This repository contains all the related files of my MSc. Data Science Dissertation for the year of 2019. It holds all the files from panda programming codes to reference studies as pdf files.
 
 CSV File used in this field are as follows.
