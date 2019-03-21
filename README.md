@@ -1,5 +1,5 @@
 # Credit_Risk
-# Effect of Age, Gender, Martial Status, and Education on credit default. An exploratory data analysis by controlled machine learning.
+#Effect of Age, Gender, Martial Status, and Education on credit default. Prediction of loan condition by using controlled machine learning.
 ##
 # Dissertation
 ##
